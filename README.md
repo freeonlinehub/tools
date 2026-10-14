@@ -21,21 +21,18 @@ No paywalls. No sign-ups. No uploads to a server. Just open the page and use it.
 
 This repository is the public catalogue of [FreeToolsHub](https://onlinefree.app) — a hand-picked directory of **233 free online tools** across AI, SEO, images, video, PDF, development, social media, finance, education and everyday work. Every tool listed below runs **without sign-up** and **without uploading your files to a third-party server** — processing happens in your browser, so your photos, PDFs and data stay on your device.
 
-**Browse live:** [onlinefree.app](https://onlinefree.app)  
-**Also available on:** [freeonline.fyi](https://freeonline.fyi) · [toolnib.com](https://toolnib.com)
-
 ## 🗂️ Browse by Category
 
 | Category | Tools |
 |---|---:|
-| 🧰 Other Tools | [165 tools](https://onlinefree.app/?type=other) |
 | 🧮 Calculators | [23 tools](https://onlinefree.app/?type=calculator) |
-| ✨ Generators | [22 tools](https://onlinefree.app/?type=generator) |
 | 🔄 File & Format Converters | [18 tools](https://onlinefree.app/?type=converter) |
+| ✨ Generators | [22 tools](https://onlinefree.app/?type=generator) |
 | 📐 Formatters & Validators | [2 tools](https://onlinefree.app/?type=formatter) |
 | 🎲 Randomizers | [1 tools](https://onlinefree.app/?type=randomizer) |
 | 🗓️ Planners | [1 tools](https://onlinefree.app/?type=planner) |
 | 🔍 Lookup | [1 tools](https://onlinefree.app/?type=lookup) |
+| 🧰 Other Tools | [165 tools](https://onlinefree.app/?type=other) |
 
 ## 🌐 Browse by Language
 
@@ -653,7 +650,7 @@ Other tools — image, video, PDF, SEO, social media, mockups, dev utilities and
 - **🆓 Truly free.** No paywalls, no premium tiers, no "free trial", no credit card.
 - **🚪 No sign-up.** Open the page, use the tool, close the tab. We don't want your email.
 - **⚡ Instant.** No queues, no throttling, no rate limits beyond what your browser already does.
-- **🌐 5 languages.** English, French, German, Arabic and global — more coming.
+- **🌐 0 languages.** English, French, German, Arabic and global — more coming.
 - **🧰 233 tools and counting.** New utilities ship weekly; the catalogue is driven by real user demand.
 - **🪪 No watermarks.** You get the clean result, not a "Made with FreeTool" stamp on top.
 
@@ -686,14 +683,6 @@ We ship a new tool most weeks, sourced from real search demand.
 
 The catalogue text in this repository is released under the **MIT License**.
 Individual tools are free for any personal or commercial use — see each tool's page for details.
-
-## 🏷️ Keywords
-
-<details><summary>Click to expand the long-tail keyword list this README targets</summary>
-
-free online tools, no sign-up tools, browser-only tools, no upload image converter, free PDF merger, free video compressor, free JSON formatter, free QR code generator, free meta tag generator, free robots.txt generator, free llms.txt generator, free Instagram mockup, free Facebook ad mockup, free Twitch overlay, free resume builder, free invoice generator, free BMI calculator, free mortgage calculator, free GPA calculator, free UUID v7 generator, free JWT inspector, free cron expression describer, free image background remover, free HEIC to JPG converter, free WebP to JPG converter, free WebM to MP4 converter, free video watermark tool, free subtitle generator, free AI prompt generator, free AI text humanizer, free LLM token counter, free AI visibility tracker, free YouTube tag generator, free YouTube thumbnail downloader, free Etsy fee calculator, free Amazon FBA calculator, free Shopify profit calculator, free Patreon revenue calculator, free Twitch subs to USD calculator, free TikTok mockup, free passport photo cropper, free photo size compressor, free PDF accessibility checker, free PDF form filler, free sitemap generator.
-
-</details>
 
 ---
 
